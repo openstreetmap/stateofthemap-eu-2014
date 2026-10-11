@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:boo="http://bestofosm.org/kmlext">
+    <Document>
+        <name>Best of OpenStreetMap</name>
+        <atom:author>      
+            <atom:name>Geofabrik GmbH</atom:name>    
+        </atom:author>    
+        <atom:link href="http://bestofosm.org/#bestof"/>    
+        <Placemark id="berliner_hof">
+            <name>Berliner Hof</name>
+            <description>&lt;p&gt;A small, family-run hotel very close to the conference location.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1000m.&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-berliner-hof.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.393718,49.011126</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="city">
+            <name>City</name>
+            <description>&lt;p&gt;Basic hotel, rooms small but clean. Sometimes offers discount rates of as low as €45 with breakfast included. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1000m.&lt;/p&gt;</description>
+            <atom:link>http://www.city-hotel-karlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.394139,49.010177</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="gaestehaus_kaiserpassage">
+            <name>GÃ¤stehaus Kaiserpassage</name>
+            <description>&lt;p&gt;Budget accommodation in rooms that sleep 4-6, for €20-25. Shared kitchen and shower. Some single rooms available. Free Wifi. &lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1150m.&lt;/p&gt;</description>
+            <atom:link>http://gaestehaus-kaiserpassage.de/</atom:link>
+            <icon>1</icon>
+            <Point><coordinates>8.396739,49.010637</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="erbprinzenhof">
+            <name>Erbprinzenhof</name>
+            <description>&lt;p&gt;Slightly older, basic hotel. Free Wifi. Very central location, can be a bit noisy.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1300m.&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-erbprinzenhof.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.397363,49.008958</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="betzler">
+            <name>Betzler</name>
+            <description>&lt;p&gt;Small and affordable hotel, with single rooms starting at €30 (shared bathroom), and rooms for up to four guests available.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1450m (1100m if you take the tram for 1 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-betzler.de</atom:link>
+            <icon>1</icon>
+            <Point><coordinates>8.396022,49.007328</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="acora">
+            <name>Acora</name>
+            <description>&lt;p&gt;A large apartment hotel with simple rooms, each equipped with a kitchenette. Expensive Swisscom Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1400m.&lt;/p&gt;</description>
+            <atom:link>http://www.acora.de/en/Home.htm</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.385801,49.00755</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="ambassador">
+            <name>Ambassador</name>
+            <description>&lt;p&gt;Smaller hotel in very central location. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1450m.&lt;/p&gt;</description>
+            <atom:link>http://www.ambassador-karlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.391353,49.007977</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="seeger_living">
+            <name>Seeger Living</name>
+            <description>&lt;p&gt;Specializes in longer-term rental but also offers short stays.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1500m (900m if you take the tram for 1 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.seeger-living.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.394449,49.006194</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="am_markt">
+            <name>Am Markt</name>
+            <description>&lt;p&gt;Central location, simple rooms, free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1500m (1000m if you take the tram for 1 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelammarkt.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.403771,49.009794</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="alte_muenze">
+            <name>Alte Münze</name>
+            <description>&lt;p&gt;Guest house accommodation with breakfast at the Ambassador hotel nearby. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1550m (1000m if you take the tram for 1 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.stadthotel-karlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.391316,49.007048</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="zi">
+            <name>Zi</name>
+            <description>&lt;p&gt;Seems to be the more exclusive branding of the "Am Karlstor". Free Wifi, nice bar.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1750m (900m if you take the tram for 2 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelkarlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.394361,49.004787</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="am_karlstor">
+            <name>Am Karlstor</name>
+            <description>&lt;p&gt;Standard business hotel. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1750m (900m if you take the tram for 2 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelkarlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.39438,49.00515</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="kaiserhof">
+            <name>Kaiserhof</name>
+            <description>&lt;p&gt;Central location, has larger rooms and suites. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1750m (1100m if you take the tram for 1 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelkaiserhof-ka.de/</atom:link>
+            <icon>3</icon>
+            <Point><coordinates>8.403553,49.007845</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="astoria">
+            <name>Astoria</name>
+            <description>&lt;p&gt;Small hotel. Reception is "remote" via telephone. Rooms small and simple but no complaints. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2000m (1000m if you take the tram for 2 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelastoria-karlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.393857,49.002741</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="arthotelroyal">
+            <name>arthotelroyal</name>
+            <description>&lt;p&gt;A bit out of the ordinary but affordable (weekend single rooms €60). Busy street. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2100m (1400m if you take the tram for 1 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.arthotelroyal.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.406695,49.005841</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="santo">
+            <name>Santo</name>
+            <description>&lt;p&gt;Nice bar. Make sure to indicate non-smoking preference when booking. Good breakfast. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2100m (1100m if you take the tram for 2 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-santo.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.394268,49.0011</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="aviva">
+            <name>Aviva</name>
+            <description>&lt;p&gt;A bit further out from the city centre, less busy, has a fitness area/spa. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2200m (1100m if you take the tram for 5 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelaviva.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.393469,49.032596</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="novotel">
+            <name>Novotel</name>
+            <description>&lt;p&gt;Excellent upmarket chain hotel. Breakfast buffet is great but costs €18. Rooms are occasionally on special offer for as low as €60 but normal price is about €100.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2250m (1100m if you take the tram for 4 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.novotel.com/de/hotel-5400-novotel-karlsruhe-city/index.shtml</atom:link>
+            <icon>3</icon>
+            <Point><coordinates>8.402244,49.00335</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="renaissance">
+            <name>Renaissance</name>
+            <description>&lt;p&gt;Excellent upmarket chain hotel (Marriott). Normal room rate is about ~€120. &lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2300m (1400m if you take the tram for 2 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.marriott.de/hotels/travel/strrn-renaissance-karlsruhe-hotel/</atom:link>
+            <icon>3</icon>
+            <Point><coordinates>8.410075,49.005521</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="leonardo">
+            <name>Leonardo</name>
+            <description>&lt;p&gt;Former Queens Hotel, 150 rooms, high-rise building with good views. Breakfast €12.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2650m (1400m if you take the tram for 4 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.leonardo-hotels.com/germany-hotels/karlsruhe-hotels/leonardo-hotel-karlsruhe</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.404218,49.000206</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="bed_and_breakfast">
+            <name>Bed and Breakfast</name>
+            <description>&lt;p&gt;A privately run budget accommodation (~€25) with rooms sleeping 1-4.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2700m (1100m if you take the tram for 3 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.bedandbreakfast-karlsruhe.de/bedandbreakfast_english.htm</atom:link>
+            <icon>1</icon>
+            <Point><coordinates>8.393422,48.996469</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="barbarossa">
+            <name>Barbarossa</name>
+            <description>&lt;p&gt;Small, basic business hotel. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 2900m (1500m if you take the tram for 4 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-barbarossa-karlsruhe.de/index.php</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.407967,49.000744</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="avisa">
+            <name>Avisa</name>
+            <description>&lt;p&gt;Small, family-run hotel near main station and zoo. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3100m (1100m if you take the tram for 3 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-avisa.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.403431,48.996224</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="am_tiergarten">
+            <name>Am Tiergarten</name>
+            <description>&lt;p&gt;Small hotel near main station and zoo. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3150m (900m if you take the tram for 5 stops).&lt;/p&gt;</description>
+            <atom:link>http://hotelamtiergarten.de/index.php?id=2&amp;L=1</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.400341,48.994873</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="ao">
+            <name>A&amp;O</name>
+            <description>&lt;p&gt;Hostel-style accommodation right next to main station. Rooms sleeping 4-8 for ~€20. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3200m (1000m if you take the tram for 5 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.aohostels.com/en/karlsruhe/</atom:link>
+            <icon>1</icon>
+            <Point><coordinates>8.398365,48.994034</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="ibis">
+            <name>Ibis</name>
+            <description>&lt;p&gt;Typical Ibis hotel newly built in the premises of the old post office.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3250m (900m if you take the tram for 6 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.accorhotels.com/gb/hotel-6965-ibis-karlsruhe-hauptbahnhof/index.shtml</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.403876,48.994893</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="elite">
+            <name>Elite</name>
+            <description>&lt;p&gt;Simple business hotel with cheaper weekend rates. Free Wifi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3350m (1000m if you take the tram for 3 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotelelite-ka.de/index.php?lang=engl</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.391544,48.996405</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="schlosshotel">
+            <name>Schloßhotel</name>
+            <description>&lt;p&gt;Called the "castle hotel" but no castle anywhere near - located directly at main railway station. Built 100 years ago as a Grand Hotel, now affordable pricing.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3350m (1000m if you take the tram for 6 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.schlosshotelkarlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.402204,48.995087</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="achat">
+            <name>Achat</name>
+            <description>&lt;p&gt;Located a bit outside, good if you bring your car. Large business hotel.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3400m (1600m if you take the tram for 5 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.achat-hotels.com/hotels/Karlsruhe/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.393678,49.043952</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="greif">
+            <name>Greif</name>
+            <description>&lt;p&gt;Affordable accommodation near the main railway station, starting at €39 for a room with shared bath.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 3600m (1000m if you take the tram for 4 stops).&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-greif-karlsruhe.de/</atom:link>
+            <icon>2</icon>
+            <Point><coordinates>8.393044,48.994468</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="conference">
+            <name>Conference</name>
+            <description>&lt;p&gt;We are here.&lt;/p&gt;</description>
+            <icon>0</icon>
+            <Point><coordinates>8.3913,49.01688</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="youth_hostel">
+            <name>Youth Hostel</name>
+            <description>&lt;p&gt;The Youth Hostel is literally on campus and we have asked them to reserve a few beds for conference visitors, however they're well booked and Thursday night might already be sold out. ~€23 for a bed in a room sleeping 4 or 6. The usual requirement for YHA membership is lefted if you mention SOTM conference.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 300m.&lt;/p&gt;</description>
+            <atom:link>http://karlsruhe.jugendherberge-bw.de/Portraet</atom:link>
+            <icon>1-star</icon>
+            <Point><coordinates>8.393066,49.015617</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="kuebler">
+            <name>Kübler</name>
+            <description>&lt;p&gt;After the Youth Hostel, this is the accommodation nearest to the conference location. A hotel with some quirks, liked by some, disliked by others (see TripAdvisor ratings). We have reserved 50 standard rooms for €66 (single) or €82 (double). These rates include breakfast, and you have to book directly with the hotel (email/telephone/fax) to get them. Mention SOTM. They also have themed rooms (higher rates) for the adventurous.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 800m.&lt;/p&gt;</description>
+            <atom:link>http://4a-hotelwelt.de/</atom:link>
+            <icon>2-star</icon>
+            <Point><coordinates>8.393704,49.012306</coordinates></Point>
+        </Placemark>
+
+        <Placemark id="rio">
+            <name>Rio</name>
+            <description>&lt;p&gt;Excellent medium-priced hotel and one of those that are nearest to the conference location. We have reserved 50 single rooms and 5 double rooms. Prices: single €60 (€89 on Thursday), double €72 (€99 on Thursday), plus €6 p.p. for buffet breakfast. You have to book directly with them (email, fax, or phone) to get one of the reserved rooms. Free WiFi.&lt;/p&gt;&lt;p&gt;Walking distance to conference location: 1150m.&lt;/p&gt;</description>
+            <atom:link>http://www.hotel-rio.de/karlsruhe/</atom:link>
+            <icon>2-star</icon>
+            <Point><coordinates>8.386212,49.009685</coordinates></Point>
+        </Placemark>
+        <Placemark id="hack">
+            <name>Hack day &amp; workshops</name>
+            <description>&lt;p&gt;Hack day &amp; Workshops (Sunday)&lt;/p&gt;</description>
+            <icon>00</icon>
+            <Point><coordinates>8.38853 ,49.00977</coordinates></Point>
+        </Placemark>
+    </Document>
+    </kml>
